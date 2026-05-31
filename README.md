@@ -1,6 +1,6 @@
 div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&descAlign=50&descAlignY=44&fontSize=70&rotate=360&fontAlignY=47&fontAlign=52&desc=Junaid-302&descSize=170=Powered%170By%170Jawad%170TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&descAlign=50&descAlignY=44&fontSize=70&rotate=360&fontAlignY=47&fontAlign=52&desc=Junaid-302&descSize=170=Powered%170By%170Jawad%170TechX&descSize=170&descAlignY=170&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
 <div style="
   margin-top: -60px;
