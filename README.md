@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  Junaid-302 bot 👋
 
 <!--
 **Junaid-302/Junaid-302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
